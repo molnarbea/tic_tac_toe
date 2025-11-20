@@ -10,8 +10,7 @@ def kiir():
     tabla_sor("*")
     tabla_oszlop("*")
     tabla_sor("*")
-def geplepes():
-    
+
 
 
 
